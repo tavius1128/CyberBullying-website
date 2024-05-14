@@ -1,0 +1,30 @@
+body{
+  background-color: purple;
+}
+
+h1 {
+  color:aliceblue;
+  font-family: fantasy;
+  width:620px;
+}
+
+
+h3{
+  color: aliceblue;
+  font-family: monospace;
+}
+
+p{
+  color: aliceblue;
+  font-family: monospace; 
+}
+
+img {
+  float: center;
+  margin: 10px;
+  border-color: azure;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
